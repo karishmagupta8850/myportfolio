@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+*{
+    font-family: "Protest Strike", sans-serif;
+    display: "flex";
+
+}
+
+.name-container{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.edu-container{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.ed-container{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.educ-container{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+
+
